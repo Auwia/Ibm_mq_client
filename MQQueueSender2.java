@@ -9,7 +9,7 @@ import javax.net.ssl.TrustManagerFactory;
 import java.io.FileInputStream;
 import java.security.KeyStore;
 
-public class MQQueueSender {
+public class MQQueueSender2 {
 
     public static void main(String[] args) {
         try {
